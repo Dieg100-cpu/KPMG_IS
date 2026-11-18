@@ -29,10 +29,10 @@ The recommended solution should help WOC:
 **Accounting staff** need an automated workflow that reduces manual reconciliation, improves accuracy, and minimizes time spent tracking missing documentation.
 
 ## Repository Artifacts
-Use the links below to navigate the project deliverables. Replace each placeholder with the artifact's title, link, and a short description as it is added to the repository.
+Use the links below to navigate the project deliverables.
 
-1. **[Artifact 1: Current-State Process Assessment](#)** — [Describe the existing reimbursement workflow, pain points, and information-system gaps.]
-2. **[Artifact 2: Internal Controls and Requirements](#)** — [Summarize control weaknesses and the functional and reporting requirements for a solution.]
-3. **[Artifact 3: AIS Recommendation and Future-State Workflow](#)** — [Present the recommended system and explain the proposed approval and reimbursement workflow.]
-4. **[Artifact 4: Proof of Concept](#)** — [Link to the prototype demonstrating the proposed expense-management process.]
-5. **[Artifact 5: Implementation and Reporting Plan](#)** — [Describe implementation considerations, measures of success, and spending or reconciliation reports.]
+1. **[Tableau Dashboard & Business Strategy](Tableau%20Dashboard%20%26%20Business%20Strategy/README.md)** — Tableau dashboard and business strategy for identifying expense and spending trends.
+2. **[AI Social Media Assistant](AI%20Social%20Media%20Assistant/README.md)** — Placeholder repository artifact for the AI social media assistant project.
+3. **[AI Strategy and Outsourcing Decision](AI%20Strategy%20and%20Outsourcing%20Decision/README.md)** — Placeholder repository artifact for the AI strategy and outsourcing decision project.
+4. **[Building a Web Page with ChatGPT — Business Process Improvement](Building%20a%20Web%20Page%20with%20ChatGPT%20-%20Business%20Process%20Improvement/README.md)** — Placeholder artifact covering a ChatGPT-built web page for business process improvement.
+5. **[Mobile App Using Thunkable](Mobile%20App%20Using%20Thunkable/README.md)** — Placeholder artifact for the Thunkable mobile application.
