@@ -1,6 +1,10 @@
 # Tableau Dashboard & Business Strategy
 
-## Placeholder
-- Project objectives: `[Add here]`
-- Tableau dashboard: `[Add link or file]`
-- Business strategy summary: `[Add here]`
+## Project Objectives
+Analyze the accounting dataset to identify unmatched expenses, missing receipts, reimbursement delays, and departmental spending trends that define the business problem.
+
+## Tableau dashboard
+`[Add link or file]`
+
+## Business strategy summary
+`[Add here]`
